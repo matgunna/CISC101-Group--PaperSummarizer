@@ -1,3 +1,4 @@
+added strict evidence mode along with warnings from bad info
 control for:
   -missing/empty sections
   -<50-word sections
