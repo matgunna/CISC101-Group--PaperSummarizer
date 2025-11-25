@@ -1,5 +1,5 @@
 -for each section:
   -summarize
   -check constraints
-  -if summary_level = "short" then create a 1–2 sentence summary per section
-  -if summary_level = "detailed" then create a short paragraph plus a bullet list of 3–5 key points for each section
+  -if summary_level = "short" then generate only a compact summary.
+  -if summary_level = "detailed" then create a generate summary along with a bullet list.
