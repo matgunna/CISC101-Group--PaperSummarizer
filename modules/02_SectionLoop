@@ -1,3 +1,4 @@
 -for each section:
   -summarize
   -check constraints
+  -if summary_level = "short" then create a 1–2 sentence summary per section
