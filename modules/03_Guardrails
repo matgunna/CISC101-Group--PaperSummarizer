@@ -1,1 +1,5 @@
-
+control for:
+  -missing/empty sections
+  -<50-word sections
+  -hallucination mitigation
+  -long-paper chunking
