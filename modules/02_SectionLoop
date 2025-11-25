@@ -1,3 +1,7 @@
+change log: added summary levels for amounts of detail
+
 -for each section:
   -summarize
   -check constraints
+  -if summary_level = "short" then generate only a compact summary.
+  -if summary_level = "detailed" then create a generate summary along with a bullet list.
